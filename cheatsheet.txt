@@ -1,0 +1,50 @@
+vector/array
+- init vector
+- iterate it forwards
+- iterate it backwards
+- sort the vector
+- reverse sort the vector
+- get min value of vector
+- get max value of vector
+- concatenate two vectors
+- create a 2d vector, i.e. vector containing vector
+
+hashmap/dictionary
+- init map
+- check if key is in map
+- iterate map
+- output number of keys in map
+- create another map and output all value which exists in both maps
+
+- create a more complex map. value should be a vector.
+- create a more complex map. value should be a map.
+
+set
+- init set, create set from string
+- intersect two sets
+- union two sets
+- get size of set
+- get difference of sets
+
+string, conversion
+- slice the string arbitrarily
+- find element in string and output position
+- check if string is a palindrome
+- convert string to int
+- convert int to string
+- convert string to bin, hex, dec
+- convert bin, hex, dec to string
+
+bit manipulation
+- convert bin, hex, dec to string
+- convert string to bin, hex, dec
+
+read file
+- read line by line
+- read and parse csv
+- read and parse by arbitrary separators
+
+Queue
+PriorityQueue
+
+Stack
